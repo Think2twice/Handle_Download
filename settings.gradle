@@ -1,0 +1,6 @@
+include ':dt'
+include ':downloadtest'
+include ':app:downloadtest'
+include ':demo_download'
+include ':app'
+rootProject.name = "Handle_Download"
